@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/the-moon/static/css/main.3daa62e2.css",
+    "main.js": "/the-moon/static/js/main.e1f86cae.js",
+    "static/media/moon-man-walking.jpg": "/the-moon/static/media/moon-man-walking.12bd47c70e6d2ce8f03f.jpg",
+    "static/media/moon-not-for-long.jpg": "/the-moon/static/media/moon-not-for-long.0635f87f5b9654be8bfc.jpg",
+    "static/media/moon-earth.jpg": "/the-moon/static/media/moon-earth.cf542306147f57bf3841.jpg",
+    "static/media/moon-hiding.jpg": "/the-moon/static/media/moon-hiding.5fa2b8671fd49a355ab5.jpg",
+    "static/media/moon.jpg": "/the-moon/static/media/moon.3880d26931717074c0a2.jpg",
+    "index.html": "/the-moon/index.html",
+    "main.3daa62e2.css.map": "/the-moon/static/css/main.3daa62e2.css.map",
+    "main.e1f86cae.js.map": "/the-moon/static/js/main.e1f86cae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3daa62e2.css",
+    "static/js/main.e1f86cae.js"
+  ]
+}
