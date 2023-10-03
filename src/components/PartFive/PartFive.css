@@ -1,0 +1,91 @@
+@media only screen and (max-width: 499px) {
+  .P5image {
+    position: relative;
+    height: 100vh;
+  }
+  .P5content {
+    color: white;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    position: absolute;
+    margin-top: 80vh;
+    margin-left: 80vw;
+    padding: 10px;
+    /*
+  https://css.glass
+  background: rgba(117, 115, 115, 0.03);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+  border: 1px solid rgba(117, 115, 115, 0.21);
+  */
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 999px) {
+  .P5image {
+    position: relative;
+    height: 100vh;
+  }
+  .P5content {
+    color: white;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    position: absolute;
+    margin-top: 80vh;
+    margin-left: 80vw;
+    padding: 10px;
+    /*
+  https://css.glass
+  background: rgba(117, 115, 115, 0.03);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+  border: 1px solid rgba(117, 115, 115, 0.21);
+  */
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .P5image {
+    position: relative;
+    height: 250vh;
+  }
+  .P5content {
+    color: white;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    position: absolute;
+    margin-top: 180vh;
+    margin-left: 80vw;
+    padding: 10px;
+    /*
+  https://css.glass
+  background: rgba(117, 115, 115, 0.03);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+  border: 1px solid rgba(117, 115, 115, 0.21);
+  */
+  }
+}
+h4 {
+  font-size: 1rem;
+}
+.spantext {
+  /*background-color: #333;*/
+  text-transform: capitalize;
+  font-family: "Poppins", sans-serif;
+  color: #343434;
+  text-shadow: 0.1rem 0.2rem #a1a1a1;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+  border-radius: 1rem;
+}
