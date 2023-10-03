@@ -14,16 +14,12 @@ function App() {
       <PartOne />
       <Bar
         header={'"Moon"'}
-        text={
-          'Not soo fun fact: Our Moon doesn\'t technically have a name Since the term "Moon" is more a classifier than a name. Earth\'s only natural satellite is simply called "Moon" because people didn\'t know other moons existed until Galileo Galilei discovered four moons orbiting Jupiter in 1609'
-        }
+        text={'Not soo fun fact: Our Moon doesn\'t technically have a name Since the term "Moon" is more a classifier than a name. Earth\'s only natural satellite is simply called "Moon" because people didn\'t know other moons existed until Galileo Galilei discovered four moons orbiting Jupiter in 1609'}
       />
       <PartTwo />
       <Bar
         header={"Moon Phases"}
-        text={
-          " The Moon likes to hide in different ways throughout the month. Below is a sneak peek of Her doing that "
-        }
+        text={" The Moon likes to hide in different ways throughout the month. Below is a sneak peek of Her doing that "}
       />
       <PartThree />
       <Bar
@@ -33,9 +29,7 @@ function App() {
       <PartFour />
       <Bar
         header={"Moon & Sun"}
-        text={
-          "sometimes the moon does whats called a pro gamer move and comes imbetween the sun and earth"
-        }
+        text={"sometimes the moon does whats called a pro gamer move and comes in between the sun and earth"}
       />
       <PartFive />
       <Bar
